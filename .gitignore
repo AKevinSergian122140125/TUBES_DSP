@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Operating System files (optional, but good practice)
+.DS_Store
+Thumbs.db
